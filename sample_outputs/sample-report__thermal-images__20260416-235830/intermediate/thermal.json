@@ -1,0 +1,847 @@
+{
+  "document_path": "C:\\Users\\bhupe\\Downloads\\Thermal Images.pdf",
+  "observations": [
+    {
+      "obs_id": "thermal-obs-001",
+      "page_no": 1,
+      "image_name": "RB02380X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 28.8,
+      "coldspot_c": 23.4,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-001_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-001_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-001",
+          "document": "thermal",
+          "page_no": 1,
+          "kind": "thermal_observation",
+          "label": "Thermal page 1"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-002",
+      "page_no": 2,
+      "image_name": "RB02386X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 27.4,
+      "coldspot_c": 22.4,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-002_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-002_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-002",
+          "document": "thermal",
+          "page_no": 2,
+          "kind": "thermal_observation",
+          "label": "Thermal page 2"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-003",
+      "page_no": 3,
+      "image_name": "RB02395X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 27.0,
+      "coldspot_c": 22.0,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-003_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-003_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-003",
+          "document": "thermal",
+          "page_no": 3,
+          "kind": "thermal_observation",
+          "label": "Thermal page 3"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-004",
+      "page_no": 4,
+      "image_name": "RB02402X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.7,
+      "coldspot_c": 20.7,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-004_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-004_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-004",
+          "document": "thermal",
+          "page_no": 4,
+          "kind": "thermal_observation",
+          "label": "Thermal page 4"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-005",
+      "page_no": 5,
+      "image_name": "RB02403X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.5,
+      "coldspot_c": 20.5,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-005_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-005_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-005",
+          "document": "thermal",
+          "page_no": 5,
+          "kind": "thermal_observation",
+          "label": "Thermal page 5"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-006",
+      "page_no": 6,
+      "image_name": "RB02404X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.8,
+      "coldspot_c": 20.8,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-006_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-006_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-006",
+          "document": "thermal",
+          "page_no": 6,
+          "kind": "thermal_observation",
+          "label": "Thermal page 6"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-007",
+      "page_no": 7,
+      "image_name": "RB02405X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.2,
+      "coldspot_c": 21.2,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-007_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-007_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-007",
+          "document": "thermal",
+          "page_no": 7,
+          "kind": "thermal_observation",
+          "label": "Thermal page 7"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-008",
+      "page_no": 8,
+      "image_name": "RB02406X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.5,
+      "coldspot_c": 21.5,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-008_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-008_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-008",
+          "document": "thermal",
+          "page_no": 8,
+          "kind": "thermal_observation",
+          "label": "Thermal page 8"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-009",
+      "page_no": 9,
+      "image_name": "RB02392X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.8,
+      "coldspot_c": 20.8,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-009_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-009_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-009",
+          "document": "thermal",
+          "page_no": 9,
+          "kind": "thermal_observation",
+          "label": "Thermal page 9"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-010",
+      "page_no": 10,
+      "image_name": "RB02393X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.9,
+      "coldspot_c": 20.9,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-010_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-010_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-010",
+          "document": "thermal",
+          "page_no": 10,
+          "kind": "thermal_observation",
+          "label": "Thermal page 10"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-011",
+      "page_no": 11,
+      "image_name": "RB02394X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.0,
+      "coldspot_c": 21.0,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-011_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-011_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-011",
+          "document": "thermal",
+          "page_no": 11,
+          "kind": "thermal_observation",
+          "label": "Thermal page 11"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-012",
+      "page_no": 12,
+      "image_name": "RB02396X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.1,
+      "coldspot_c": 21.1,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-012_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-012_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-012",
+          "document": "thermal",
+          "page_no": 12,
+          "kind": "thermal_observation",
+          "label": "Thermal page 12"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-013",
+      "page_no": 13,
+      "image_name": "RB02397X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.3,
+      "coldspot_c": 21.3,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-013_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-013_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-013",
+          "document": "thermal",
+          "page_no": 13,
+          "kind": "thermal_observation",
+          "label": "Thermal page 13"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-014",
+      "page_no": 14,
+      "image_name": "RB02398X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.6,
+      "coldspot_c": 20.6,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-014_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-014_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-014",
+          "document": "thermal",
+          "page_no": 14,
+          "kind": "thermal_observation",
+          "label": "Thermal page 14"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-015",
+      "page_no": 15,
+      "image_name": "RB02399X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.5,
+      "coldspot_c": 21.5,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-015_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-015_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-015",
+          "document": "thermal",
+          "page_no": 15,
+          "kind": "thermal_observation",
+          "label": "Thermal page 15"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-016",
+      "page_no": 16,
+      "image_name": "RB02400X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.2,
+      "coldspot_c": 20.2,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-016_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-016_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-016",
+          "document": "thermal",
+          "page_no": 16,
+          "kind": "thermal_observation",
+          "label": "Thermal page 16"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-017",
+      "page_no": 17,
+      "image_name": "RB02401X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.6,
+      "coldspot_c": 20.6,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-017_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-017_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-017",
+          "document": "thermal",
+          "page_no": 17,
+          "kind": "thermal_observation",
+          "label": "Thermal page 17"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-018",
+      "page_no": 18,
+      "image_name": "RB02381X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 27.0,
+      "coldspot_c": 22.0,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-018_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-018_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-018",
+          "document": "thermal",
+          "page_no": 18,
+          "kind": "thermal_observation",
+          "label": "Thermal page 18"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-019",
+      "page_no": 19,
+      "image_name": "RB02382X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.7,
+      "coldspot_c": 21.7,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-019_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-019_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-019",
+          "document": "thermal",
+          "page_no": 19,
+          "kind": "thermal_observation",
+          "label": "Thermal page 19"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-020",
+      "page_no": 20,
+      "image_name": "RB02383X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.5,
+      "coldspot_c": 21.5,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-020_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-020_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-020",
+          "document": "thermal",
+          "page_no": 20,
+          "kind": "thermal_observation",
+          "label": "Thermal page 20"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-021",
+      "page_no": 21,
+      "image_name": "RB02384X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 27.3,
+      "coldspot_c": 22.3,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-021_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-021_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-021",
+          "document": "thermal",
+          "page_no": 21,
+          "kind": "thermal_observation",
+          "label": "Thermal page 21"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-022",
+      "page_no": 22,
+      "image_name": "RB02385X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 27.3,
+      "coldspot_c": 22.3,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-022_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-022_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-022",
+          "document": "thermal",
+          "page_no": 22,
+          "kind": "thermal_observation",
+          "label": "Thermal page 22"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-023",
+      "page_no": 23,
+      "image_name": "RB02387X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.2,
+      "coldspot_c": 20.2,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-023_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-023_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-023",
+          "document": "thermal",
+          "page_no": 23,
+          "kind": "thermal_observation",
+          "label": "Thermal page 23"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-024",
+      "page_no": 24,
+      "image_name": "RB02388X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.1,
+      "coldspot_c": 20.1,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-024_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-024_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-024",
+          "document": "thermal",
+          "page_no": 24,
+          "kind": "thermal_observation",
+          "label": "Thermal page 24"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-025",
+      "page_no": 25,
+      "image_name": "RB02389X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.9,
+      "coldspot_c": 20.9,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-025_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-025_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-025",
+          "document": "thermal",
+          "page_no": 25,
+          "kind": "thermal_observation",
+          "label": "Thermal page 25"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-026",
+      "page_no": 26,
+      "image_name": "RB02390X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.9,
+      "coldspot_c": 21.9,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-026_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-026_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-026",
+          "document": "thermal",
+          "page_no": 26,
+          "kind": "thermal_observation",
+          "label": "Thermal page 26"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-027",
+      "page_no": 27,
+      "image_name": "RB02391X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 25.6,
+      "coldspot_c": 20.6,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-027_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-027_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-027",
+          "document": "thermal",
+          "page_no": 27,
+          "kind": "thermal_observation",
+          "label": "Thermal page 27"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-028",
+      "page_no": 28,
+      "image_name": "RB02377X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.9,
+      "coldspot_c": 21.9,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-028_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-028_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-028",
+          "document": "thermal",
+          "page_no": 28,
+          "kind": "thermal_observation",
+          "label": "Thermal page 28"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-029",
+      "page_no": 29,
+      "image_name": "RB02378X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 26.4,
+      "coldspot_c": 21.4,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-029_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-029_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-029",
+          "document": "thermal",
+          "page_no": 29,
+          "kind": "thermal_observation",
+          "label": "Thermal page 29"
+        }
+      ]
+    },
+    {
+      "obs_id": "thermal-obs-030",
+      "page_no": 30,
+      "image_name": "RB02379X.JPG",
+      "date": "27/09/22",
+      "hotspot_c": 27.8,
+      "coldspot_c": 22.8,
+      "emissivity": 0.94,
+      "reflected_temp_c": 23.0,
+      "thermal_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-030_thermal.jpeg",
+      "visible_image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\thermal\\thermal-obs-030_visible.jpeg",
+      "source_refs": [
+        {
+          "evidence_id": "thermal-obs-030",
+          "document": "thermal",
+          "page_no": 30,
+          "kind": "thermal_observation",
+          "label": "Thermal page 30"
+        }
+      ]
+    }
+  ],
+  "source_index": [
+    {
+      "evidence_id": "thermal-obs-001",
+      "document": "thermal",
+      "page_no": 1,
+      "kind": "thermal_observation",
+      "label": "Thermal page 1"
+    },
+    {
+      "evidence_id": "thermal-obs-002",
+      "document": "thermal",
+      "page_no": 2,
+      "kind": "thermal_observation",
+      "label": "Thermal page 2"
+    },
+    {
+      "evidence_id": "thermal-obs-003",
+      "document": "thermal",
+      "page_no": 3,
+      "kind": "thermal_observation",
+      "label": "Thermal page 3"
+    },
+    {
+      "evidence_id": "thermal-obs-004",
+      "document": "thermal",
+      "page_no": 4,
+      "kind": "thermal_observation",
+      "label": "Thermal page 4"
+    },
+    {
+      "evidence_id": "thermal-obs-005",
+      "document": "thermal",
+      "page_no": 5,
+      "kind": "thermal_observation",
+      "label": "Thermal page 5"
+    },
+    {
+      "evidence_id": "thermal-obs-006",
+      "document": "thermal",
+      "page_no": 6,
+      "kind": "thermal_observation",
+      "label": "Thermal page 6"
+    },
+    {
+      "evidence_id": "thermal-obs-007",
+      "document": "thermal",
+      "page_no": 7,
+      "kind": "thermal_observation",
+      "label": "Thermal page 7"
+    },
+    {
+      "evidence_id": "thermal-obs-008",
+      "document": "thermal",
+      "page_no": 8,
+      "kind": "thermal_observation",
+      "label": "Thermal page 8"
+    },
+    {
+      "evidence_id": "thermal-obs-009",
+      "document": "thermal",
+      "page_no": 9,
+      "kind": "thermal_observation",
+      "label": "Thermal page 9"
+    },
+    {
+      "evidence_id": "thermal-obs-010",
+      "document": "thermal",
+      "page_no": 10,
+      "kind": "thermal_observation",
+      "label": "Thermal page 10"
+    },
+    {
+      "evidence_id": "thermal-obs-011",
+      "document": "thermal",
+      "page_no": 11,
+      "kind": "thermal_observation",
+      "label": "Thermal page 11"
+    },
+    {
+      "evidence_id": "thermal-obs-012",
+      "document": "thermal",
+      "page_no": 12,
+      "kind": "thermal_observation",
+      "label": "Thermal page 12"
+    },
+    {
+      "evidence_id": "thermal-obs-013",
+      "document": "thermal",
+      "page_no": 13,
+      "kind": "thermal_observation",
+      "label": "Thermal page 13"
+    },
+    {
+      "evidence_id": "thermal-obs-014",
+      "document": "thermal",
+      "page_no": 14,
+      "kind": "thermal_observation",
+      "label": "Thermal page 14"
+    },
+    {
+      "evidence_id": "thermal-obs-015",
+      "document": "thermal",
+      "page_no": 15,
+      "kind": "thermal_observation",
+      "label": "Thermal page 15"
+    },
+    {
+      "evidence_id": "thermal-obs-016",
+      "document": "thermal",
+      "page_no": 16,
+      "kind": "thermal_observation",
+      "label": "Thermal page 16"
+    },
+    {
+      "evidence_id": "thermal-obs-017",
+      "document": "thermal",
+      "page_no": 17,
+      "kind": "thermal_observation",
+      "label": "Thermal page 17"
+    },
+    {
+      "evidence_id": "thermal-obs-018",
+      "document": "thermal",
+      "page_no": 18,
+      "kind": "thermal_observation",
+      "label": "Thermal page 18"
+    },
+    {
+      "evidence_id": "thermal-obs-019",
+      "document": "thermal",
+      "page_no": 19,
+      "kind": "thermal_observation",
+      "label": "Thermal page 19"
+    },
+    {
+      "evidence_id": "thermal-obs-020",
+      "document": "thermal",
+      "page_no": 20,
+      "kind": "thermal_observation",
+      "label": "Thermal page 20"
+    },
+    {
+      "evidence_id": "thermal-obs-021",
+      "document": "thermal",
+      "page_no": 21,
+      "kind": "thermal_observation",
+      "label": "Thermal page 21"
+    },
+    {
+      "evidence_id": "thermal-obs-022",
+      "document": "thermal",
+      "page_no": 22,
+      "kind": "thermal_observation",
+      "label": "Thermal page 22"
+    },
+    {
+      "evidence_id": "thermal-obs-023",
+      "document": "thermal",
+      "page_no": 23,
+      "kind": "thermal_observation",
+      "label": "Thermal page 23"
+    },
+    {
+      "evidence_id": "thermal-obs-024",
+      "document": "thermal",
+      "page_no": 24,
+      "kind": "thermal_observation",
+      "label": "Thermal page 24"
+    },
+    {
+      "evidence_id": "thermal-obs-025",
+      "document": "thermal",
+      "page_no": 25,
+      "kind": "thermal_observation",
+      "label": "Thermal page 25"
+    },
+    {
+      "evidence_id": "thermal-obs-026",
+      "document": "thermal",
+      "page_no": 26,
+      "kind": "thermal_observation",
+      "label": "Thermal page 26"
+    },
+    {
+      "evidence_id": "thermal-obs-027",
+      "document": "thermal",
+      "page_no": 27,
+      "kind": "thermal_observation",
+      "label": "Thermal page 27"
+    },
+    {
+      "evidence_id": "thermal-obs-028",
+      "document": "thermal",
+      "page_no": 28,
+      "kind": "thermal_observation",
+      "label": "Thermal page 28"
+    },
+    {
+      "evidence_id": "thermal-obs-029",
+      "document": "thermal",
+      "page_no": 29,
+      "kind": "thermal_observation",
+      "label": "Thermal page 29"
+    },
+    {
+      "evidence_id": "thermal-obs-030",
+      "document": "thermal",
+      "page_no": 30,
+      "kind": "thermal_observation",
+      "label": "Thermal page 30"
+    }
+  ]
+}

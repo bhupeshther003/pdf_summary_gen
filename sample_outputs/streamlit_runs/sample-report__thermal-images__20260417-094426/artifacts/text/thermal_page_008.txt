@@ -1,0 +1,15 @@
+26.5 °C
+21.5 °C
+27/09/22
+Hotspot : 
+26.5 °C
+Coldspot : 
+21.5 °C
+Emissivity : 
+0.94
+Reflected temperature : 
+23 °C
+Thermal image : RB02406X.JPG
+Device : GTC 400 C Professional
+Serial Number : 02700034772
+8

@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ddr-report-generator"
+version = "0.1.0"
+description = "DDR report generator for inspection and thermal PDF inputs."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "google-genai",
+  "jinja2>=3.1.6",
+  "numpy>=2.4.3",
+  "opencv-python-headless>=4.13.0.92",
+  "pillow>=12.1.1",
+  "playwright>=1.58.0",
+  "pydantic>=2.12.5",
+  "python-dotenv>=1.2.2",
+  "pymupdf>=1.27.2",
+  "streamlit>=1.56.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=9.0.3",
+]
+
+[tool.setuptools.packages.find]
+include = ["ddr_report*"]
+
+[tool.setuptools.package-data]
+"ddr_report" = ["templates/*.j2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

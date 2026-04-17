@@ -1,0 +1,1172 @@
+[
+  {
+    "obs_id": "thermal-obs-001",
+    "matched_area_id": "area-01",
+    "confidence": 0.7912700653076172,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.97. Runner-up score was 0.95, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9692375659942627,
+        "supporting_photo_ids": [
+          "photo-010",
+          "photo-005",
+          "photo-012"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9491317272186279,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9476034641265869,
+        "supporting_photo_ids": [
+          "photo-018",
+          "photo-019",
+          "photo-015"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-002",
+    "matched_area_id": "area-01",
+    "confidence": 0.6514125347137452,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.97. Runner-up score was 0.96, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9699579477310181,
+        "supporting_photo_ids": [
+          "photo-010",
+          "photo-009",
+          "photo-001"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9615069031715393,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9557675719261169,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-015"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-003",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2737637758255005,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.89, which was not clearly above the runner-up score of 0.89.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.889826774597168,
+        "supporting_photo_ids": [
+          "photo-004",
+          "photo-011",
+          "photo-005"
+        ]
+      },
+      {
+        "area_id": "area-06",
+        "area_title": "Impacted Area 6",
+        "score": 0.8874503970146179,
+        "supporting_photo_ids": [
+          "photo-056",
+          "photo-057",
+          "photo-051"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.8755578994750977,
+        "supporting_photo_ids": [
+          "photo-021",
+          "photo-028",
+          "photo-022"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-004",
+    "matched_area_id": "area-01",
+    "confidence": 0.6610119819641114,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.98. Runner-up score was 0.97, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9818838238716125,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-004",
+          "photo-012"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9726328253746033,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9721114039421082,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-005",
+    "matched_area_id": "area-01",
+    "confidence": 0.8599853992462159,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.96. Runner-up score was 0.94, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.961067795753479,
+        "supporting_photo_ids": [
+          "photo-010",
+          "photo-001",
+          "photo-012"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9352356791496277,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9239405393600464,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-015"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-006",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2810337543487549,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.98, which was not clearly above the runner-up score of 0.97.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9778378009796143,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-012",
+          "photo-009"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9747344255447388,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9737788438796997,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-007",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2578696012496948,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.96, which was not clearly above the runner-up score of 0.96.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9588876366615295,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-020",
+          "photo-021"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9581006765365601,
+        "supporting_photo_ids": [
+          "photo-059",
+          "photo-058",
+          "photo-060"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9567185044288635,
+        "supporting_photo_ids": [
+          "photo-006",
+          "photo-011",
+          "photo-004"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-008",
+    "matched_area_id": "unmatched",
+    "confidence": 0.26447975635528564,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.98, which was not clearly above the runner-up score of 0.98.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9831684827804565,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.981720507144928,
+        "supporting_photo_ids": [
+          "photo-011",
+          "photo-006",
+          "photo-005"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9669723510742188,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-045",
+          "photo-047"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-009",
+    "matched_area_id": "unmatched",
+    "confidence": 0.49244964122772217,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.94, which was not clearly above the runner-up score of 0.92.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9419278502464294,
+        "supporting_photo_ids": [
+          "photo-010",
+          "photo-001",
+          "photo-008"
+        ]
+      },
+      {
+        "area_id": "area-06",
+        "area_title": "Impacted Area 6",
+        "score": 0.9176828861236572,
+        "supporting_photo_ids": [
+          "photo-055",
+          "photo-051",
+          "photo-057"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.8989776372909546,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-010",
+    "matched_area_id": "area-01",
+    "confidence": 0.691690731048584,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.98. Runner-up score was 0.97, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.981758713722229,
+        "supporting_photo_ids": [
+          "photo-004",
+          "photo-005",
+          "photo-010"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9699511528015137,
+        "supporting_photo_ids": [
+          "photo-021",
+          "photo-022",
+          "photo-030"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9669505953788757,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-011",
+    "matched_area_id": "area-01",
+    "confidence": 0.6898460865020752,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.98. Runner-up score was 0.97, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9825519323348999,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-012",
+          "photo-010"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9708980917930603,
+        "supporting_photo_ids": [
+          "photo-021",
+          "photo-022",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9673147797584534,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-012",
+    "matched_area_id": "area-03",
+    "confidence": 0.6413960933685303,
+    "rationale": "Deterministic image similarity favored Impacted Area 3 with score 0.99. Runner-up score was 0.99, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9948011040687561,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-020",
+          "photo-021"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9871847629547119,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-045",
+          "photo-048"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9811655282974243,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-011",
+          "photo-012"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-013",
+    "matched_area_id": "unmatched",
+    "confidence": 0.250041127204895,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.97, which was not clearly above the runner-up score of 0.97.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9748330116271973,
+        "supporting_photo_ids": [
+          "photo-009",
+          "photo-011",
+          "photo-005"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9748288989067078,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9688517451286316,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-020",
+          "photo-021"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-014",
+    "matched_area_id": "area-01",
+    "confidence": 0.62,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.99. Runner-up score was 0.98, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9856528043746948,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-011",
+          "photo-004"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9811111688613892,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9764231443405151,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-015",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2838625907897949,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.97, which was not clearly above the runner-up score of 0.97.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9748015403747559,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9714152812957764,
+        "supporting_photo_ids": [
+          "photo-011",
+          "photo-006",
+          "photo-004"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9617869257926941,
+        "supporting_photo_ids": [
+          "photo-059",
+          "photo-058",
+          "photo-060"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-016",
+    "matched_area_id": "unmatched",
+    "confidence": 0.25,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9888916015625,
+        "supporting_photo_ids": [
+          "photo-020",
+          "photo-022",
+          "photo-021"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9888916015625,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-048",
+          "photo-043"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9798936247825623,
+        "supporting_photo_ids": [
+          "photo-012",
+          "photo-008",
+          "photo-005"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-017",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2835019826889038,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.98, which was not clearly above the runner-up score of 0.98.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9831981658935547,
+        "supporting_photo_ids": [
+          "photo-012",
+          "photo-005",
+          "photo-004"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9798479676246643,
+        "supporting_photo_ids": [
+          "photo-021",
+          "photo-022",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9784069061279297,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-018",
+    "matched_area_id": "area-03",
+    "confidence": 0.62,
+    "rationale": "Deterministic image similarity favored Impacted Area 3 with score 0.99. Runner-up score was 0.98, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9871437549591064,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9827865362167358,
+        "supporting_photo_ids": [
+          "photo-011",
+          "photo-005",
+          "photo-004"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9755523204803467,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-019",
+    "matched_area_id": "unmatched",
+    "confidence": 0.26403212547302246,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9903216361999512,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-020",
+          "photo-021"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9889184236526489,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-048",
+          "photo-043"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9822359085083008,
+        "supporting_photo_ids": [
+          "photo-059",
+          "photo-060",
+          "photo-058"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-020",
+    "matched_area_id": "unmatched",
+    "confidence": 0.25,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9898563623428345,
+        "supporting_photo_ids": [
+          "photo-020",
+          "photo-022",
+          "photo-029"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9898563623428345,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-048",
+          "photo-045"
+        ]
+      },
+      {
+        "area_id": "area-04",
+        "area_title": "Impacted Area 4",
+        "score": 0.974164605140686,
+        "supporting_photo_ids": [
+          "photo-036",
+          "photo-037",
+          "photo-031"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-021",
+    "matched_area_id": "unmatched",
+    "confidence": 0.25,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.99250727891922,
+        "supporting_photo_ids": [
+          "photo-020",
+          "photo-022",
+          "photo-021"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.99250727891922,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-043",
+          "photo-048"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9843311309814453,
+        "supporting_photo_ids": [
+          "photo-059",
+          "photo-060",
+          "photo-058"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-022",
+    "matched_area_id": "unmatched",
+    "confidence": 0.25,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.99250727891922,
+        "supporting_photo_ids": [
+          "photo-020",
+          "photo-022",
+          "photo-021"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.99250727891922,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-043",
+          "photo-048"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9843311309814453,
+        "supporting_photo_ids": [
+          "photo-059",
+          "photo-060",
+          "photo-058"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-023",
+    "matched_area_id": "unmatched",
+    "confidence": 0.26832127571105957,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.96, which was not clearly above the runner-up score of 0.96.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9640070199966431,
+        "supporting_photo_ids": [
+          "photo-012",
+          "photo-010",
+          "photo-005"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9621748924255371,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      },
+      {
+        "area_id": "area-06",
+        "area_title": "Impacted Area 6",
+        "score": 0.9582192897796631,
+        "supporting_photo_ids": [
+          "photo-055",
+          "photo-049",
+          "photo-050"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-024",
+    "matched_area_id": "unmatched",
+    "confidence": 0.25142931938171387,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.98, which was not clearly above the runner-up score of 0.98.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9799185395240784,
+        "supporting_photo_ids": [
+          "photo-012",
+          "photo-005",
+          "photo-009"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.979775607585907,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-059",
+          "photo-058"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9788287878036499,
+        "supporting_photo_ids": [
+          "photo-021",
+          "photo-022",
+          "photo-020"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-025",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2721759080886841,
+    "rationale": "The best deterministic score for Impacted Area 3 was 0.98, which was not clearly above the runner-up score of 0.98.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9830832481384277,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9808656573295593,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-004",
+          "photo-006"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9761965274810791,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-045",
+          "photo-046"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-026",
+    "matched_area_id": "area-03",
+    "confidence": 0.6590700626373291,
+    "rationale": "Deterministic image similarity favored Impacted Area 3 with score 0.99. Runner-up score was 0.98, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.987859308719635,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9787701368331909,
+        "supporting_photo_ids": [
+          "photo-005",
+          "photo-004",
+          "photo-011"
+        ]
+      },
+      {
+        "area_id": "area-05",
+        "area_title": "Impacted Area 5",
+        "score": 0.9768416881561279,
+        "supporting_photo_ids": [
+          "photo-039",
+          "photo-046",
+          "photo-047"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-027",
+    "matched_area_id": "area-01",
+    "confidence": 0.68761305809021,
+    "rationale": "Deterministic image similarity favored Impacted Area 1 with score 0.97. Runner-up score was 0.96, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9710286259651184,
+        "supporting_photo_ids": [
+          "photo-010",
+          "photo-009",
+          "photo-012"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9595608711242676,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-015"
+        ]
+      },
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9541995525360107,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-058",
+          "photo-059"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-028",
+    "matched_area_id": "unmatched",
+    "confidence": 0.27371907234191895,
+    "rationale": "The best deterministic score for Impacted Area 7 was 0.98, which was not clearly above the runner-up score of 0.98.",
+    "candidate_scores": [
+      {
+        "area_id": "area-07",
+        "area_title": "Impacted Area 7",
+        "score": 0.9821018576622009,
+        "supporting_photo_ids": [
+          "photo-060",
+          "photo-059",
+          "photo-058"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.979729950428009,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9797232151031494,
+        "supporting_photo_ids": [
+          "photo-009",
+          "photo-010",
+          "photo-012"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-029",
+    "matched_area_id": "area-03",
+    "confidence": 0.62,
+    "rationale": "Deterministic image similarity favored Impacted Area 3 with score 0.98. Runner-up score was 0.98, which left a usable margin for assignment.",
+    "candidate_scores": [
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.9844192266464233,
+        "supporting_photo_ids": [
+          "photo-022",
+          "photo-021",
+          "photo-020"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9797983169555664,
+        "supporting_photo_ids": [
+          "photo-019",
+          "photo-018",
+          "photo-017"
+        ]
+      },
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9797906875610352,
+        "supporting_photo_ids": [
+          "photo-009",
+          "photo-012",
+          "photo-005"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  },
+  {
+    "obs_id": "thermal-obs-030",
+    "matched_area_id": "unmatched",
+    "confidence": 0.2500351667404175,
+    "rationale": "The best deterministic score for Impacted Area 1 was 0.98, which was not clearly above the runner-up score of 0.98.",
+    "candidate_scores": [
+      {
+        "area_id": "area-01",
+        "area_title": "Impacted Area 1",
+        "score": 0.9802027344703674,
+        "supporting_photo_ids": [
+          "photo-008",
+          "photo-012",
+          "photo-005"
+        ]
+      },
+      {
+        "area_id": "area-02",
+        "area_title": "Impacted Area 2",
+        "score": 0.9801992177963257,
+        "supporting_photo_ids": [
+          "photo-018",
+          "photo-019",
+          "photo-017"
+        ]
+      },
+      {
+        "area_id": "area-03",
+        "area_title": "Impacted Area 3",
+        "score": 0.979167640209198,
+        "supporting_photo_ids": [
+          "photo-020",
+          "photo-022",
+          "photo-021"
+        ]
+      }
+    ],
+    "method": "heuristic"
+  }
+]

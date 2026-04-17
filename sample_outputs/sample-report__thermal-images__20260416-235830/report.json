@@ -1,0 +1,2067 @@
+{
+  "property_issue_summary": [
+    "The inspection identifies 7 impacted areas across the property.",
+    "The most consistent issue patterns are moisture ingress, dampness, or leakage, wet-area tile or plumbing defects, secondary spread into ceilings or adjacent areas.",
+    "The thermal report contains 30 observations, with 30 left unmatched where confidence was weak."
+  ],
+  "area_wise_observations": [
+    {
+      "area_id": "area-01",
+      "area_title": "Impacted Area 1",
+      "observation_summary": "Hall Skirting level Dampness Common Bathroom tile hollowness",
+      "probable_root_cause": "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+      "severity": "Moderate",
+      "severity_reasoning": "Severity is based on visible moisture-related distress is present.",
+      "recommended_actions": [
+        "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+        "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+        "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-001.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-003.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-005.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-007.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-008.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-009.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-011.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-013.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-001",
+        "photo-003",
+        "photo-005",
+        "photo-007",
+        "photo-008",
+        "photo-009",
+        "photo-011",
+        "photo-013"
+      ]
+    },
+    {
+      "area_id": "area-02",
+      "area_title": "Impacted Area 2",
+      "observation_summary": "Bedroom Skirting level Dampness Common Bathroom tile hollowness",
+      "probable_root_cause": "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+      "severity": "Moderate",
+      "severity_reasoning": "Severity is based on visible moisture-related distress is present.",
+      "recommended_actions": [
+        "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+        "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+        "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-015.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-017.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-019.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-015",
+        "photo-017",
+        "photo-019"
+      ]
+    },
+    {
+      "area_id": "area-03",
+      "area_title": "Impacted Area 3",
+      "observation_summary": "Master bedroom Skirting level Dampness MB Bathroom tile hollowness",
+      "probable_root_cause": "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+      "severity": "Moderate",
+      "severity_reasoning": "Severity is based on visible moisture-related distress is present.",
+      "recommended_actions": [
+        "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+        "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+        "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-020.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-021.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-023.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-025.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-026.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-027.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-029.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-020",
+        "photo-021",
+        "photo-023",
+        "photo-025",
+        "photo-026",
+        "photo-027",
+        "photo-029"
+      ]
+    },
+    {
+      "area_id": "area-04",
+      "area_title": "Impacted Area 4",
+      "observation_summary": "Kitchen Skirting level Dampness Master bedroom bathroom",
+      "probable_root_cause": "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+      "severity": "Moderate",
+      "severity_reasoning": "Severity is based on visible moisture-related distress is present.",
+      "recommended_actions": [
+        "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+        "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+        "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-031.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-033.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-035.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-037.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-031",
+        "photo-033",
+        "photo-035",
+        "photo-037"
+      ]
+    },
+    {
+      "area_id": "area-05",
+      "area_title": "Impacted Area 5",
+      "observation_summary": "Master bedroom wall damness External wall crack and Duct Issue",
+      "probable_root_cause": "Facade or wall-surface distress appears to be the primary defect driver.",
+      "severity": "Moderate",
+      "severity_reasoning": "Severity is based on building envelope defects are referenced.",
+      "recommended_actions": [
+        "Inspect external wall cracks and duct penetrations, then seal and waterproof the affected facade."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-038.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-039.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-041.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-042.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-043.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-045.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-047.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-048.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-038",
+        "photo-039",
+        "photo-041",
+        "photo-042",
+        "photo-043",
+        "photo-045",
+        "photo-047",
+        "photo-048"
+      ]
+    },
+    {
+      "area_id": "area-06",
+      "area_title": "Impacted Area 6",
+      "observation_summary": "Parking Area seepage Common Bathroom tile hollowness and plumbing issue",
+      "probable_root_cause": "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+      "severity": "High",
+      "severity_reasoning": "Severity is based on visible moisture-related distress is present.",
+      "recommended_actions": [
+        "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+        "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+        "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying.",
+        "Check adjacent upper-floor wet areas and ceiling interfaces to confirm the leakage path."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-049.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-051.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-053.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-055.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-057.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-049",
+        "photo-051",
+        "photo-053",
+        "photo-055",
+        "photo-057"
+      ]
+    },
+    {
+      "area_id": "area-07",
+      "area_title": "Impacted Area 7",
+      "observation_summary": "Common Bathroom Ceiling Dampness Flat no 203 tile joint open and",
+      "probable_root_cause": "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+      "severity": "Moderate",
+      "severity_reasoning": "Severity is based on visible moisture-related distress is present.",
+      "recommended_actions": [
+        "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+        "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+        "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying.",
+        "Check adjacent upper-floor wet areas and ceiling interfaces to confirm the leakage path."
+      ],
+      "additional_notes": [
+        "This section was generated without LLM support."
+      ],
+      "missing_or_unclear_information": [
+        "Thermal evidence: Not Available"
+      ],
+      "inspection_photo_paths": [
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-058.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-059.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-061.jpeg",
+        "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260416-235830\\artifacts\\images\\inspection\\photo-063.jpeg"
+      ],
+      "thermal_image_paths": [
+        "Image Not Available"
+      ],
+      "visible_image_paths": [
+        "Image Not Available"
+      ],
+      "evidence_refs": [
+        "photo-058",
+        "photo-059",
+        "photo-061",
+        "photo-063"
+      ]
+    }
+  ],
+  "probable_root_cause": [
+    "Moisture ingress likely linked to wet-area tile joint failure, plumbing leakage, or poor sealing.",
+    "Facade or wall-surface distress appears to be the primary defect driver."
+  ],
+  "severity_assessment": [
+    {
+      "area_id": "area-01",
+      "area_title": "Impacted Area 1",
+      "severity": "Moderate",
+      "reasoning": "Severity is based on visible moisture-related distress is present."
+    },
+    {
+      "area_id": "area-02",
+      "area_title": "Impacted Area 2",
+      "severity": "Moderate",
+      "reasoning": "Severity is based on visible moisture-related distress is present."
+    },
+    {
+      "area_id": "area-03",
+      "area_title": "Impacted Area 3",
+      "severity": "Moderate",
+      "reasoning": "Severity is based on visible moisture-related distress is present."
+    },
+    {
+      "area_id": "area-04",
+      "area_title": "Impacted Area 4",
+      "severity": "Moderate",
+      "reasoning": "Severity is based on visible moisture-related distress is present."
+    },
+    {
+      "area_id": "area-05",
+      "area_title": "Impacted Area 5",
+      "severity": "Moderate",
+      "reasoning": "Severity is based on building envelope defects are referenced."
+    },
+    {
+      "area_id": "area-06",
+      "area_title": "Impacted Area 6",
+      "severity": "High",
+      "reasoning": "Severity is based on visible moisture-related distress is present."
+    },
+    {
+      "area_id": "area-07",
+      "area_title": "Impacted Area 7",
+      "severity": "Moderate",
+      "reasoning": "Severity is based on visible moisture-related distress is present."
+    }
+  ],
+  "recommended_actions": [
+    "Inspect bathroom and plumbing fixtures, then repair leaking joints, traps, or concealed lines.",
+    "Re-grout or reseal failed tile joints and replace hollow or loose tiles where needed.",
+    "Trace the moisture source before cosmetic repairs, then remove damaged plaster and repaint after drying.",
+    "Inspect external wall cracks and duct penetrations, then seal and waterproof the affected facade.",
+    "Check adjacent upper-floor wet areas and ceiling interfaces to confirm the leakage path."
+  ],
+  "additional_notes": [
+    "Summary-table observations were treated as auxiliary evidence only.",
+    "Unmatched thermal evidence was preserved instead of being forced into an area assignment.",
+    "30 thermal observations remain unresolved and should be reviewed manually."
+  ],
+  "missing_or_unclear_information": [
+    "Impacted Area 1: Thermal evidence: Not Available",
+    "Impacted Area 2: Thermal evidence: Not Available",
+    "Impacted Area 3: Thermal evidence: Not Available",
+    "Impacted Area 4: Thermal evidence: Not Available",
+    "Impacted Area 5: Thermal evidence: Not Available",
+    "Impacted Area 6: Thermal evidence: Not Available",
+    "Impacted Area 7: Thermal evidence: Not Available"
+  ],
+  "source_index": [
+    {
+      "evidence_id": "area-01",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "impacted_area",
+      "label": "Impacted Area 1"
+    },
+    {
+      "evidence_id": "area-02",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "impacted_area",
+      "label": "Impacted Area 2"
+    },
+    {
+      "evidence_id": "area-03",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "impacted_area",
+      "label": "Impacted Area 3"
+    },
+    {
+      "evidence_id": "area-04",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "impacted_area",
+      "label": "Impacted Area 4"
+    },
+    {
+      "evidence_id": "area-05",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "impacted_area",
+      "label": "Impacted Area 5"
+    },
+    {
+      "evidence_id": "area-06",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "impacted_area",
+      "label": "Impacted Area 6"
+    },
+    {
+      "evidence_id": "area-07",
+      "document": "inspection",
+      "page_no": 6,
+      "kind": "impacted_area",
+      "label": "Impacted Area 7"
+    },
+    {
+      "evidence_id": "photo-001",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "photo",
+      "label": "Photo 1 Photo 2 Photo 3 Photo 4 Photo 5 Photo 6"
+    },
+    {
+      "evidence_id": "photo-003",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 3 Photo 4"
+    },
+    {
+      "evidence_id": "photo-005",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 5 Photo 6"
+    },
+    {
+      "evidence_id": "photo-007",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "photo",
+      "label": "Photo 7"
+    },
+    {
+      "evidence_id": "photo-008",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "photo",
+      "label": "Photo 8 Photo 9 Photo 10 Photo 11"
+    },
+    {
+      "evidence_id": "photo-009",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 9 Photo 10"
+    },
+    {
+      "evidence_id": "photo-011",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 11 Photo 12"
+    },
+    {
+      "evidence_id": "photo-013",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 13 Photo 14"
+    },
+    {
+      "evidence_id": "photo-015",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "photo",
+      "label": "Photo 15 Photo 16 Photo 17 Photo 18 Photo 19"
+    },
+    {
+      "evidence_id": "photo-017",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 17 Photo 18"
+    },
+    {
+      "evidence_id": "photo-019",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 19 Photo 20"
+    },
+    {
+      "evidence_id": "photo-020",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "photo",
+      "label": "Photo 20 Photo 21 Photo 22 Photo 23 Photo 24 Photo 25"
+    },
+    {
+      "evidence_id": "photo-021",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 21 Photo 22"
+    },
+    {
+      "evidence_id": "photo-023",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 23 Photo 24"
+    },
+    {
+      "evidence_id": "photo-025",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 25 Photo 26"
+    },
+    {
+      "evidence_id": "photo-026",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "photo",
+      "label": "Photo 26 Photo 27 Photo 28 Photo 29 Photo 30"
+    },
+    {
+      "evidence_id": "photo-027",
+      "document": "inspection",
+      "page_no": 15,
+      "kind": "photo",
+      "label": "Photo 27 Photo 28"
+    },
+    {
+      "evidence_id": "photo-029",
+      "document": "inspection",
+      "page_no": 15,
+      "kind": "photo",
+      "label": "Photo 29 Photo 30"
+    },
+    {
+      "evidence_id": "photo-031",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "photo",
+      "label": "Photo 31 Photo 32"
+    },
+    {
+      "evidence_id": "photo-033",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "photo",
+      "label": "Photo 33 Photo 34 Photo 35 Photo 36 Photo 37"
+    },
+    {
+      "evidence_id": "photo-035",
+      "document": "inspection",
+      "page_no": 17,
+      "kind": "photo",
+      "label": "Photo 35 Photo 36"
+    },
+    {
+      "evidence_id": "photo-037",
+      "document": "inspection",
+      "page_no": 17,
+      "kind": "photo",
+      "label": "Photo 37 Photo 38"
+    },
+    {
+      "evidence_id": "photo-038",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "photo",
+      "label": "Photo 38 Photo 39 Photo 40 Photo 41"
+    },
+    {
+      "evidence_id": "photo-039",
+      "document": "inspection",
+      "page_no": 18,
+      "kind": "photo",
+      "label": "Photo 39 Photo 40"
+    },
+    {
+      "evidence_id": "photo-041",
+      "document": "inspection",
+      "page_no": 18,
+      "kind": "photo",
+      "label": "Photo 41 Photo 42"
+    },
+    {
+      "evidence_id": "photo-042",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "photo",
+      "label": "Photo 42 Photo 43 Photo 44 Photo 45 Photo 46 Photo 47"
+    },
+    {
+      "evidence_id": "photo-043",
+      "document": "inspection",
+      "page_no": 19,
+      "kind": "photo",
+      "label": "Photo 43 Photo 44"
+    },
+    {
+      "evidence_id": "photo-045",
+      "document": "inspection",
+      "page_no": 19,
+      "kind": "photo",
+      "label": "Photo 45 Photo 46"
+    },
+    {
+      "evidence_id": "photo-047",
+      "document": "inspection",
+      "page_no": 20,
+      "kind": "photo",
+      "label": "Photo 47 Photo 48"
+    },
+    {
+      "evidence_id": "photo-048",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "photo",
+      "label": "Photo 48"
+    },
+    {
+      "evidence_id": "photo-049",
+      "document": "inspection",
+      "page_no": 6,
+      "kind": "photo",
+      "label": "Photo 49 Photo 50 Photo 51 Photo 52"
+    },
+    {
+      "evidence_id": "photo-051",
+      "document": "inspection",
+      "page_no": 21,
+      "kind": "photo",
+      "label": "Photo 51 Photo 52"
+    },
+    {
+      "evidence_id": "photo-053",
+      "document": "inspection",
+      "page_no": 6,
+      "kind": "photo",
+      "label": "Photo 53 Photo 54 Photo 55 Photo 56 Photo 57"
+    },
+    {
+      "evidence_id": "photo-055",
+      "document": "inspection",
+      "page_no": 22,
+      "kind": "photo",
+      "label": "Photo 55 Photo 56"
+    },
+    {
+      "evidence_id": "photo-057",
+      "document": "inspection",
+      "page_no": 22,
+      "kind": "photo",
+      "label": "Photo 57 Photo 58"
+    },
+    {
+      "evidence_id": "photo-058",
+      "document": "inspection",
+      "page_no": 6,
+      "kind": "photo",
+      "label": "Photo 58 outlet Leakage"
+    },
+    {
+      "evidence_id": "photo-059",
+      "document": "inspection",
+      "page_no": 6,
+      "kind": "photo",
+      "label": "Photo 59 Photo 60 Photo 61 Photo 62 Photo 63 Photo 64"
+    },
+    {
+      "evidence_id": "photo-061",
+      "document": "inspection",
+      "page_no": 23,
+      "kind": "photo",
+      "label": "Photo 61 Photo 62"
+    },
+    {
+      "evidence_id": "photo-063",
+      "document": "inspection",
+      "page_no": 23,
+      "kind": "photo",
+      "label": "Photo 63 Photo 64"
+    },
+    {
+      "evidence_id": "thermal-obs-001",
+      "document": "thermal",
+      "page_no": 1,
+      "kind": "thermal_observation",
+      "label": "Thermal page 1"
+    },
+    {
+      "evidence_id": "thermal-obs-002",
+      "document": "thermal",
+      "page_no": 2,
+      "kind": "thermal_observation",
+      "label": "Thermal page 2"
+    },
+    {
+      "evidence_id": "thermal-obs-003",
+      "document": "thermal",
+      "page_no": 3,
+      "kind": "thermal_observation",
+      "label": "Thermal page 3"
+    },
+    {
+      "evidence_id": "thermal-obs-004",
+      "document": "thermal",
+      "page_no": 4,
+      "kind": "thermal_observation",
+      "label": "Thermal page 4"
+    },
+    {
+      "evidence_id": "thermal-obs-005",
+      "document": "thermal",
+      "page_no": 5,
+      "kind": "thermal_observation",
+      "label": "Thermal page 5"
+    },
+    {
+      "evidence_id": "thermal-obs-006",
+      "document": "thermal",
+      "page_no": 6,
+      "kind": "thermal_observation",
+      "label": "Thermal page 6"
+    },
+    {
+      "evidence_id": "thermal-obs-007",
+      "document": "thermal",
+      "page_no": 7,
+      "kind": "thermal_observation",
+      "label": "Thermal page 7"
+    },
+    {
+      "evidence_id": "thermal-obs-008",
+      "document": "thermal",
+      "page_no": 8,
+      "kind": "thermal_observation",
+      "label": "Thermal page 8"
+    },
+    {
+      "evidence_id": "thermal-obs-009",
+      "document": "thermal",
+      "page_no": 9,
+      "kind": "thermal_observation",
+      "label": "Thermal page 9"
+    },
+    {
+      "evidence_id": "thermal-obs-010",
+      "document": "thermal",
+      "page_no": 10,
+      "kind": "thermal_observation",
+      "label": "Thermal page 10"
+    },
+    {
+      "evidence_id": "thermal-obs-011",
+      "document": "thermal",
+      "page_no": 11,
+      "kind": "thermal_observation",
+      "label": "Thermal page 11"
+    },
+    {
+      "evidence_id": "thermal-obs-012",
+      "document": "thermal",
+      "page_no": 12,
+      "kind": "thermal_observation",
+      "label": "Thermal page 12"
+    },
+    {
+      "evidence_id": "thermal-obs-013",
+      "document": "thermal",
+      "page_no": 13,
+      "kind": "thermal_observation",
+      "label": "Thermal page 13"
+    },
+    {
+      "evidence_id": "thermal-obs-014",
+      "document": "thermal",
+      "page_no": 14,
+      "kind": "thermal_observation",
+      "label": "Thermal page 14"
+    },
+    {
+      "evidence_id": "thermal-obs-015",
+      "document": "thermal",
+      "page_no": 15,
+      "kind": "thermal_observation",
+      "label": "Thermal page 15"
+    },
+    {
+      "evidence_id": "thermal-obs-016",
+      "document": "thermal",
+      "page_no": 16,
+      "kind": "thermal_observation",
+      "label": "Thermal page 16"
+    },
+    {
+      "evidence_id": "thermal-obs-017",
+      "document": "thermal",
+      "page_no": 17,
+      "kind": "thermal_observation",
+      "label": "Thermal page 17"
+    },
+    {
+      "evidence_id": "thermal-obs-018",
+      "document": "thermal",
+      "page_no": 18,
+      "kind": "thermal_observation",
+      "label": "Thermal page 18"
+    },
+    {
+      "evidence_id": "thermal-obs-019",
+      "document": "thermal",
+      "page_no": 19,
+      "kind": "thermal_observation",
+      "label": "Thermal page 19"
+    },
+    {
+      "evidence_id": "thermal-obs-020",
+      "document": "thermal",
+      "page_no": 20,
+      "kind": "thermal_observation",
+      "label": "Thermal page 20"
+    },
+    {
+      "evidence_id": "thermal-obs-021",
+      "document": "thermal",
+      "page_no": 21,
+      "kind": "thermal_observation",
+      "label": "Thermal page 21"
+    },
+    {
+      "evidence_id": "thermal-obs-022",
+      "document": "thermal",
+      "page_no": 22,
+      "kind": "thermal_observation",
+      "label": "Thermal page 22"
+    },
+    {
+      "evidence_id": "thermal-obs-023",
+      "document": "thermal",
+      "page_no": 23,
+      "kind": "thermal_observation",
+      "label": "Thermal page 23"
+    },
+    {
+      "evidence_id": "thermal-obs-024",
+      "document": "thermal",
+      "page_no": 24,
+      "kind": "thermal_observation",
+      "label": "Thermal page 24"
+    },
+    {
+      "evidence_id": "thermal-obs-025",
+      "document": "thermal",
+      "page_no": 25,
+      "kind": "thermal_observation",
+      "label": "Thermal page 25"
+    },
+    {
+      "evidence_id": "thermal-obs-026",
+      "document": "thermal",
+      "page_no": 26,
+      "kind": "thermal_observation",
+      "label": "Thermal page 26"
+    },
+    {
+      "evidence_id": "thermal-obs-027",
+      "document": "thermal",
+      "page_no": 27,
+      "kind": "thermal_observation",
+      "label": "Thermal page 27"
+    },
+    {
+      "evidence_id": "thermal-obs-028",
+      "document": "thermal",
+      "page_no": 28,
+      "kind": "thermal_observation",
+      "label": "Thermal page 28"
+    },
+    {
+      "evidence_id": "thermal-obs-029",
+      "document": "thermal",
+      "page_no": 29,
+      "kind": "thermal_observation",
+      "label": "Thermal page 29"
+    },
+    {
+      "evidence_id": "thermal-obs-030",
+      "document": "thermal",
+      "page_no": 30,
+      "kind": "thermal_observation",
+      "label": "Thermal page 30"
+    }
+  ],
+  "unmatched_thermal_observations": [
+    {
+      "obs_id": "thermal-obs-001",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4923030585050583,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.97, which was not clearly above the runner-up score of 0.96.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9692122340202332,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-001",
+            "photo-009"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9631636738777161,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-051",
+            "photo-055"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9631636738777161,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-002",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49248525500297546,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.97, which was not clearly above the runner-up score of 0.96.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9699410200119019,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-011",
+            "photo-001"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9614819288253784,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.925163984298706,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-051",
+            "photo-049"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-003",
+      "matched_area_id": "unmatched",
+      "confidence": 0.47408686578273773,
+      "rationale": "The best deterministic score for Impacted Area 6 was 0.90, which was not clearly above the runner-up score of 0.90.",
+      "candidate_scores": [
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.8963474631309509,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-051",
+            "photo-049"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.8963474631309509,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-063"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.8765767812728882,
+          "supporting_photo_ids": [
+            "photo-008",
+            "photo-005",
+            "photo-013"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-004",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4957387149333954,
+      "rationale": "The best deterministic score for Impacted Area 6 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9829548597335815,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-051",
+            "photo-049"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9829548597335815,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9755994081497192,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-011",
+            "photo-009"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-005",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4902626574039459,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.96, which was not clearly above the runner-up score of 0.94.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9610506296157837,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-001",
+            "photo-011"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9352086186408997,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9191770553588867,
+          "supporting_photo_ids": [
+            "photo-025",
+            "photo-021",
+            "photo-023"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-006",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4942513108253479,
+      "rationale": "The best deterministic score for Impacted Area 6 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9770052433013916,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-055",
+            "photo-053"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9770052433013916,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.974699854850769,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-013",
+            "photo-009"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-007",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4897156357765198,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.96, which was not clearly above the runner-up score of 0.95.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9588625431060791,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9541637897491455,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-047"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9334813356399536,
+          "supporting_photo_ids": [
+            "photo-049",
+            "photo-057",
+            "photo-055"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-008",
+      "matched_area_id": "unmatched",
+      "confidence": 0.495789036154747,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.98, which was not clearly above the runner-up score of 0.97.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.983156144618988,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9670078754425049,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-047"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9566485285758972,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-008",
+            "photo-005"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-009",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4854711592197418,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.94, which was not clearly above the runner-up score of 0.90.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9418846368789673,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-001",
+            "photo-009"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.8989195823669434,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.8959169387817383,
+          "supporting_photo_ids": [
+            "photo-031",
+            "photo-033",
+            "photo-035"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-010",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49594464898109436,
+      "rationale": "The best deterministic score for Impacted Area 6 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9837785959243774,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-051",
+            "photo-049"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9837785959243774,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9762328863143921,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-011",
+            "photo-001"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-011",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49569791555404663,
+      "rationale": "The best deterministic score for Impacted Area 6 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9827916622161865,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-055",
+            "photo-053"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9827916622161865,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9771386384963989,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-009",
+            "photo-011"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-012",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49869728088378906,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9947891235351562,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9871936440467834,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9730337262153625,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-049",
+            "photo-055"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-013",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49370044469833374,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.97, which was not clearly above the runner-up score of 0.97.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.974801778793335,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-013",
+            "photo-009"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9688363671302795,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9644588828086853,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-014",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49527405202388763,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9810962080955505,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9788728952407837,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-049",
+            "photo-051"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9788728952407837,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-015",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4936966598033905,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.97, which was not clearly above the runner-up score of 0.96.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.974786639213562,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9550268054008484,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-047"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9512819051742554,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-008",
+            "photo-005"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-016",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4972369223833084,
+      "rationale": "The best deterministic score for Impacted Area 5 was 0.99, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9889476895332336,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9838976860046387,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9783164262771606,
+          "supporting_photo_ids": [
+            "photo-009",
+            "photo-011",
+            "photo-013"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-017",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4954114556312561,
+      "rationale": "The best deterministic score for Impacted Area 6 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9816458225250244,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-049",
+            "photo-055"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9816458225250244,
+          "supporting_photo_ids": [
+            "photo-058",
+            "photo-061",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9798338413238525,
+          "supporting_photo_ids": [
+            "photo-021",
+            "photo-023",
+            "photo-026"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-018",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49678148329257965,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9871259331703186,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9755364656448364,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-013",
+            "photo-009"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9722710847854614,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-049",
+            "photo-055"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-019",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4975786656141281,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.99.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9903146624565125,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9889823198318481,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9766091108322144,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-020",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4974536895751953,
+      "rationale": "The best deterministic score for Impacted Area 5 was 0.99, which was not clearly above the runner-up score of 0.99.",
+      "candidate_scores": [
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9898147583007812,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9858160614967346,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9745320081710815,
+          "supporting_photo_ids": [
+            "photo-037",
+            "photo-031",
+            "photo-033"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-021",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49813246726989746,
+      "rationale": "The best deterministic score for Impacted Area 5 was 0.99, which was not clearly above the runner-up score of 0.99.",
+      "candidate_scores": [
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9925298690795898,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9890581369400024,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9736214876174927,
+          "supporting_photo_ids": [
+            "photo-037",
+            "photo-031",
+            "photo-033"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-022",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49813246726989746,
+      "rationale": "The best deterministic score for Impacted Area 5 was 0.99, which was not clearly above the runner-up score of 0.99.",
+      "candidate_scores": [
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9925298690795898,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9890581369400024,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9736214876174927,
+          "supporting_photo_ids": [
+            "photo-037",
+            "photo-031",
+            "photo-033"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-023",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4905322194099426,
+      "rationale": "The best deterministic score for Impacted Area 7 was 0.96, which was not clearly above the runner-up score of 0.96.",
+      "candidate_scores": [
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9621288776397705,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9576209783554077,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-009",
+            "photo-011"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9523101449012756,
+          "supporting_photo_ids": [
+            "photo-031",
+            "photo-037",
+            "photo-033"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-024",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4949425309896469,
+      "rationale": "The best deterministic score for Impacted Area 7 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9797701239585876,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9788126945495605,
+          "supporting_photo_ids": [
+            "photo-021",
+            "photo-023",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9767389893531799,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-055",
+            "photo-053"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-025",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49576883018016815,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.9830753207206726,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.97613525390625,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-047"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9745374321937561,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-049",
+            "photo-055"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-026",
+      "matched_area_id": "unmatched",
+      "confidence": 0.496961310505867,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.99, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.987845242023468,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9768173694610596,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-047"
+          ]
+        },
+        {
+          "area_id": "area-06",
+          "area_title": "Impacted Area 6",
+          "score": 0.9724581837654114,
+          "supporting_photo_ids": [
+            "photo-057",
+            "photo-049",
+            "photo-055"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-027",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4927462190389633,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.97, which was not clearly above the runner-up score of 0.95.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9709848761558533,
+          "supporting_photo_ids": [
+            "photo-013",
+            "photo-011",
+            "photo-009"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9541544914245605,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9522794485092163,
+          "supporting_photo_ids": [
+            "photo-031",
+            "photo-033",
+            "photo-037"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-028",
+      "matched_area_id": "unmatched",
+      "confidence": 0.49552270770072937,
+      "rationale": "The best deterministic score for Impacted Area 7 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9820908308029175,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9797115325927734,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-013",
+            "photo-009"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9700174331665039,
+          "supporting_photo_ids": [
+            "photo-031",
+            "photo-037",
+            "photo-033"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-029",
+      "matched_area_id": "unmatched",
+      "confidence": 0.496101975440979,
+      "rationale": "The best deterministic score for Impacted Area 3 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-03",
+          "area_title": "Impacted Area 3",
+          "score": 0.984407901763916,
+          "supporting_photo_ids": [
+            "photo-023",
+            "photo-021",
+            "photo-026"
+          ]
+        },
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9797852635383606,
+          "supporting_photo_ids": [
+            "photo-011",
+            "photo-009",
+            "photo-013"
+          ]
+        },
+        {
+          "area_id": "area-07",
+          "area_title": "Impacted Area 7",
+          "score": 0.9772672653198242,
+          "supporting_photo_ids": [
+            "photo-061",
+            "photo-058",
+            "photo-059"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    },
+    {
+      "obs_id": "thermal-obs-030",
+      "matched_area_id": "unmatched",
+      "confidence": 0.4950459897518158,
+      "rationale": "The best deterministic score for Impacted Area 1 was 0.98, which was not clearly above the runner-up score of 0.98.",
+      "candidate_scores": [
+        {
+          "area_id": "area-01",
+          "area_title": "Impacted Area 1",
+          "score": 0.9801839590072632,
+          "supporting_photo_ids": [
+            "photo-009",
+            "photo-013",
+            "photo-011"
+          ]
+        },
+        {
+          "area_id": "area-04",
+          "area_title": "Impacted Area 4",
+          "score": 0.9801839590072632,
+          "supporting_photo_ids": [
+            "photo-031",
+            "photo-037",
+            "photo-033"
+          ]
+        },
+        {
+          "area_id": "area-05",
+          "area_title": "Impacted Area 5",
+          "score": 0.9791907072067261,
+          "supporting_photo_ids": [
+            "photo-039",
+            "photo-048",
+            "photo-043"
+          ]
+        }
+      ],
+      "method": "heuristic"
+    }
+  ],
+  "generated_at": "2026-04-16T18:28:50Z",
+  "llm_mode": "fallback"
+}

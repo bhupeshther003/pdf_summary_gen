@@ -1,0 +1,507 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>DDR Report</title>
+    <style>
+      :root {
+        --ink: #182028;
+        --muted: #5e6772;
+        --line: #d8dee5;
+        --panel: #f7f4ef;
+        --accent: #b9501d;
+        --accent-soft: #f1dfd5;
+        --good: #2e7d32;
+        --warn: #b7791f;
+        --bad: #b42318;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Segoe UI", Tahoma, sans-serif;
+        color: var(--ink);
+        background: linear-gradient(180deg, #fffdf9 0%, #f7f2eb 100%);
+        -webkit-print-color-adjust: exact;
+      }
+
+      .page {
+        max-width: 980px;
+        margin: 0 auto;
+        padding: 24px 28px 48px;
+      }
+
+      .hero {
+        border: 1px solid var(--line);
+        border-top: 8px solid var(--accent);
+        border-radius: 18px;
+        padding: 22px 24px;
+        background: white;
+        box-shadow: 0 10px 30px rgba(24, 32, 40, 0.06);
+      }
+
+      h1, h2, h3 {
+        margin: 0 0 10px;
+      }
+
+      h1 {
+        font-size: 32px;
+        letter-spacing: 0.02em;
+      }
+
+      h2 {
+        font-size: 22px;
+        margin-top: 28px;
+      }
+
+      h3 {
+        font-size: 17px;
+        margin-top: 18px;
+      }
+
+      p, li {
+        font-size: 13px;
+        line-height: 1.55;
+      }
+
+      .muted {
+        color: var(--muted);
+      }
+
+      .meta-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .meta-card {
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 12px;
+        background: var(--panel);
+      }
+
+      .meta-card .label {
+        font-size: 11px;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .meta-card .value {
+        margin-top: 6px;
+        font-size: 14px;
+        font-weight: 600;
+      }
+
+      .section-card {
+        margin-top: 18px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 18px;
+        background: white;
+      }
+
+      .metric-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .metric-card {
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        padding: 14px;
+        background: linear-gradient(180deg, #fff9f4 0%, #fff 100%);
+      }
+
+      .metric-card .value {
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--accent);
+      }
+
+      .metric-card .label {
+        margin-top: 4px;
+        font-size: 11px;
+        color: var(--muted);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      .summary-list,
+      .detail-list {
+        margin: 10px 0 0 18px;
+      }
+
+      .area-card {
+        margin-top: 16px;
+        padding: 18px;
+        border-radius: 18px;
+        border: 1px solid var(--line);
+        background: white;
+        break-inside: avoid;
+      }
+
+      .area-header {
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+        gap: 16px;
+      }
+
+      .severity {
+        padding: 8px 12px;
+        border-radius: 999px;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .severity.low {
+        background: #e8f5e9;
+        color: var(--good);
+      }
+
+      .severity.moderate {
+        background: #fff4dd;
+        color: var(--warn);
+      }
+
+      .severity.high {
+        background: #fde7e4;
+        color: var(--bad);
+      }
+
+      .gallery {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 12px;
+        margin-top: 12px;
+      }
+
+      .image-card {
+        border: 1px solid var(--line);
+        border-radius: 14px;
+        overflow: hidden;
+        background: #fcfcfc;
+      }
+
+      .image-card img {
+        width: 100%;
+        height: 190px;
+        object-fit: cover;
+        display: block;
+      }
+
+      .image-card .caption {
+        padding: 8px 10px 10px;
+        font-size: 11px;
+        color: var(--muted);
+      }
+
+      .table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 10px;
+      }
+
+      .table th,
+      .table td {
+        border: 1px solid var(--line);
+        padding: 10px;
+        text-align: left;
+        font-size: 12px;
+        vertical-align: top;
+      }
+
+      .table th {
+        background: var(--accent-soft);
+      }
+
+      .footnote {
+        margin-top: 26px;
+        color: var(--muted);
+        font-size: 11px;
+      }
+
+      @page {
+        size: A4;
+        margin: 14mm 12mm;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <section class="hero">
+        <p class="muted">Detailed Diagnostic Report</p>
+        <h1>Property DDR Report</h1>
+        <p>
+          This report consolidates inspection and thermal evidence into a client-ready summary.
+          Missing data is shown as <strong>Not Available</strong>, and unresolved image evidence is preserved instead of forced into a conclusion.
+        </p>
+        <div class="meta-grid">
+          {% for key, value in metadata.items() %}
+          <div class="meta-card">
+            <div class="label">{{ key }}</div>
+            <div class="value">{{ value }}</div>
+          </div>
+          {% endfor %}
+        </div>
+        <div class="metric-grid">
+          <div class="metric-card">
+            <div class="value">{{ summary_metrics.impacted_area_count }}</div>
+            <div class="label">Impacted Areas</div>
+          </div>
+          <div class="metric-card">
+            <div class="value">{{ summary_metrics.inspection_image_count }}</div>
+            <div class="label">Inspection Images</div>
+          </div>
+          <div class="metric-card">
+            <div class="value">{{ summary_metrics.matched_thermal_count }}</div>
+            <div class="label">Matched Thermal Images</div>
+          </div>
+          <div class="metric-card">
+            <div class="value">{{ summary_metrics.unmatched_thermal_count }}</div>
+            <div class="label">Unmatched Thermal Items</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section-card">
+        <h2>Property Issue Summary</h2>
+        <ul class="summary-list">
+          {% for item in report.property_issue_summary %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="section-card">
+        <h2>Area-wise Observations</h2>
+        {% for area in area_cards %}
+        <article class="area-card">
+          <div class="area-header">
+            <div>
+              <h3>{{ area.title }}</h3>
+              <p>{{ area.summary }}</p>
+            </div>
+            <div class="severity {{ area.severity|lower }}">{{ area.severity }}</div>
+          </div>
+
+          <p><strong>Probable Root Cause:</strong> {{ area.root_cause }}</p>
+          <p><strong>Severity Reasoning:</strong> {{ area.severity_reasoning }}</p>
+
+          <h3>Recommended Actions</h3>
+          <ul class="detail-list">
+            {% for item in area.recommended_actions %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+
+          {% if area.additional_notes %}
+          <h3>Additional Notes</h3>
+          <ul class="detail-list">
+            {% for item in area.additional_notes %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          {% if area.missing_items %}
+          <h3>Missing Or Unclear Information</h3>
+          <ul class="detail-list">
+            {% for item in area.missing_items %}
+            <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+          {% endif %}
+
+          <h3>Inspection Images</h3>
+          {% if area.inspection_images %}
+          <div class="gallery">
+            {% for image in area.inspection_images %}
+            <div class="image-card">
+              <img src="{{ image.data_uri }}" alt="{{ image.filename }}">
+              <div class="caption">{{ image.filename }}</div>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <p>Image Not Available</p>
+          {% endif %}
+
+          <h3>Thermal Images</h3>
+          {% if area.thermal_images %}
+          <div class="gallery">
+            {% for image in area.thermal_images %}
+            <div class="image-card">
+              <img src="{{ image.data_uri }}" alt="{{ image.filename }}">
+              <div class="caption">{{ image.filename }}</div>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <p>Image Not Available</p>
+          {% endif %}
+
+          <h3>Thermal Readings</h3>
+          {% if area.thermal_measurements %}
+          <table class="table">
+            <thead>
+              <tr>
+                <th>Observation</th>
+                <th>Date</th>
+                <th>Hotspot</th>
+                <th>Coldspot</th>
+                <th>Reflected Temp</th>
+                <th>Emissivity</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for row in area.thermal_measurements %}
+              <tr>
+                <td>{{ row.obs_id }}</td>
+                <td>{{ row.date }}</td>
+                <td>{% if row.hotspot_c is not none %}{{ "%.1f C"|format(row.hotspot_c) }}{% else %}Not Available{% endif %}</td>
+                <td>{% if row.coldspot_c is not none %}{{ "%.1f C"|format(row.coldspot_c) }}{% else %}Not Available{% endif %}</td>
+                <td>{% if row.reflected_temp_c is not none %}{{ "%.1f C"|format(row.reflected_temp_c) }}{% else %}Not Available{% endif %}</td>
+                <td>{% if row.emissivity is not none %}{{ "%.2f"|format(row.emissivity) }}{% else %}Not Available{% endif %}</td>
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
+          {% else %}
+          <p>Not Available</p>
+          {% endif %}
+
+          <h3>Visible Companion Images</h3>
+          {% if area.visible_images %}
+          <div class="gallery">
+            {% for image in area.visible_images %}
+            <div class="image-card">
+              <img src="{{ image.data_uri }}" alt="{{ image.filename }}">
+              <div class="caption">{{ image.filename }}</div>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <p>Image Not Available</p>
+          {% endif %}
+        </article>
+        {% endfor %}
+      </section>
+
+      <section class="section-card">
+        <h2>Probable Root Cause</h2>
+        <ul class="detail-list">
+          {% for item in report.probable_root_cause %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="section-card">
+        <h2>Severity Assessment</h2>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>Area</th>
+              <th>Severity</th>
+              <th>Reasoning</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in report.severity_assessment %}
+            <tr>
+              <td>{{ row.area_title }}</td>
+              <td>{{ row.severity }}</td>
+              <td>{{ row.reasoning }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </section>
+
+      <section class="section-card">
+        <h2>Recommended Actions</h2>
+        <ul class="detail-list">
+          {% for item in report.recommended_actions %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="section-card">
+        <h2>Additional Notes</h2>
+        <ul class="detail-list">
+          {% for item in report.additional_notes %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      <section class="section-card">
+        <h2>Missing Or Unclear Information</h2>
+        <ul class="detail-list">
+          {% for item in report.missing_or_unclear_information %}
+          <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </section>
+
+      {% if unmatched_cards %}
+      <section class="section-card">
+        <h2>Unmatched Thermal Observations</h2>
+        {% for item in unmatched_cards %}
+        <article class="area-card">
+          <div class="area-header">
+            <div>
+              <h3>{{ item.obs_id }}</h3>
+              <p>{{ item.rationale }}</p>
+            </div>
+            <div class="severity moderate">{{ item.confidence }}</div>
+          </div>
+
+          <h3>Thermal Image</h3>
+          {% if item.thermal_images %}
+          <div class="gallery">
+            {% for image in item.thermal_images %}
+            <div class="image-card">
+              <img src="{{ image.data_uri }}" alt="{{ image.filename }}">
+              <div class="caption">{{ image.filename }}</div>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <p>Image Not Available</p>
+          {% endif %}
+
+          <h3>Visible Companion Image</h3>
+          {% if item.visible_images %}
+          <div class="gallery">
+            {% for image in item.visible_images %}
+            <div class="image-card">
+              <img src="{{ image.data_uri }}" alt="{{ image.filename }}">
+              <div class="caption">{{ image.filename }}</div>
+            </div>
+            {% endfor %}
+          </div>
+          {% else %}
+          <p>Image Not Available</p>
+          {% endif %}
+        </article>
+        {% endfor %}
+      </section>
+      {% endif %}
+
+      <p class="footnote">
+        Generated at {{ report.generated_at }}. LLM mode: {{ report.llm_mode }}.
+      </p>
+    </div>
+  </body>
+</html>

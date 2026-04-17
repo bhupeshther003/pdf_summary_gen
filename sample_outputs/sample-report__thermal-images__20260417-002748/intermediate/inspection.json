@@ -1,0 +1,1416 @@
+{
+  "document_path": "C:\\Users\\bhupe\\Downloads\\Sample Report.pdf",
+  "property_metadata": {
+    "Customer Name": "Not Available",
+    "Mobile": "Not Available",
+    "Email": "Not Available",
+    "Address": "Not Available",
+    "Property Age (In years)": "Not Available",
+    "Floors": "11",
+    "Property Type": "Flat"
+  },
+  "inspection_metadata": {
+    "Score": "85.71%",
+    "Flagged items": "1 flagged",
+    "Previous Structural audit done": "No",
+    "Previous Repair work done": "No",
+    "Inspection Date and Time": "27.09.2022 14:28 IST",
+    "Inspected By": "Krushna & Mahesh"
+  },
+  "impacted_areas": [
+    {
+      "area_id": "area-01",
+      "title": "Impacted Area 1",
+      "negative_description": "Hall Skirting level Dampness",
+      "positive_description": "Common Bathroom tile hollowness",
+      "photo_ids": [
+        "photo-001",
+        "photo-002",
+        "photo-003",
+        "photo-004",
+        "photo-005",
+        "photo-006",
+        "photo-007",
+        "photo-008",
+        "photo-009",
+        "photo-010",
+        "photo-011",
+        "photo-012"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-01",
+          "document": "inspection",
+          "page_no": 3,
+          "kind": "impacted_area",
+          "label": "Impacted Area 1"
+        }
+      ]
+    },
+    {
+      "area_id": "area-02",
+      "title": "Impacted Area 2",
+      "negative_description": "Bedroom Skirting level Dampness",
+      "positive_description": "Common Bathroom tile hollowness",
+      "photo_ids": [
+        "photo-015",
+        "photo-016",
+        "photo-017",
+        "photo-018",
+        "photo-019"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-02",
+          "document": "inspection",
+          "page_no": 3,
+          "kind": "impacted_area",
+          "label": "Impacted Area 2"
+        }
+      ]
+    },
+    {
+      "area_id": "area-03",
+      "title": "Impacted Area 3",
+      "negative_description": "Master bedroom Skirting level Dampness",
+      "positive_description": "MB Bathroom tile hollowness",
+      "photo_ids": [
+        "photo-020",
+        "photo-021",
+        "photo-022",
+        "photo-023",
+        "photo-024",
+        "photo-025",
+        "photo-026",
+        "photo-027",
+        "photo-028",
+        "photo-029",
+        "photo-030"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-03",
+          "document": "inspection",
+          "page_no": 4,
+          "kind": "impacted_area",
+          "label": "Impacted Area 3"
+        }
+      ]
+    },
+    {
+      "area_id": "area-04",
+      "title": "Impacted Area 4",
+      "negative_description": "Kitchen Skirting level Dampness",
+      "positive_description": "Master bedroom bathroom",
+      "photo_ids": [
+        "photo-031",
+        "photo-032",
+        "photo-033",
+        "photo-034",
+        "photo-035",
+        "photo-036",
+        "photo-037"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-04",
+          "document": "inspection",
+          "page_no": 4,
+          "kind": "impacted_area",
+          "label": "Impacted Area 4"
+        }
+      ]
+    },
+    {
+      "area_id": "area-05",
+      "title": "Impacted Area 5",
+      "negative_description": "Master bedroom wall damness",
+      "positive_description": "External wall crack and Duct Issue",
+      "photo_ids": [
+        "photo-038",
+        "photo-039",
+        "photo-040",
+        "photo-041",
+        "photo-042",
+        "photo-043",
+        "photo-044",
+        "photo-045",
+        "photo-046",
+        "photo-047",
+        "photo-048"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-05",
+          "document": "inspection",
+          "page_no": 5,
+          "kind": "impacted_area",
+          "label": "Impacted Area 5"
+        }
+      ]
+    },
+    {
+      "area_id": "area-06",
+      "title": "Impacted Area 6",
+      "negative_description": "Parking Area seepage",
+      "positive_description": "Common Bathroom tile hollowness and plumbing issue",
+      "photo_ids": [
+        "photo-049",
+        "photo-050",
+        "photo-051",
+        "photo-052",
+        "photo-053",
+        "photo-054",
+        "photo-055",
+        "photo-056",
+        "photo-057"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-06",
+          "document": "inspection",
+          "page_no": 5,
+          "kind": "impacted_area",
+          "label": "Impacted Area 6"
+        }
+      ]
+    },
+    {
+      "area_id": "area-07",
+      "title": "Impacted Area 7",
+      "negative_description": "Common Bathroom Ceiling Dampness",
+      "positive_description": "Flat no 203 tile joint open and",
+      "photo_ids": [
+        "photo-058",
+        "photo-059",
+        "photo-060",
+        "photo-061",
+        "photo-062",
+        "photo-063",
+        "photo-064"
+      ],
+      "source_refs": [
+        {
+          "evidence_id": "area-07",
+          "document": "inspection",
+          "page_no": 6,
+          "kind": "impacted_area",
+          "label": "Impacted Area 7"
+        }
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "photo_id": "photo-001",
+      "caption_ref": "Photo 1",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-001.png",
+      "page_no": 11,
+      "source_refs": [
+        {
+          "evidence_id": "photo-001",
+          "document": "inspection",
+          "page_no": 11,
+          "kind": "photo",
+          "label": "Photo 1"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-002",
+      "caption_ref": "Photo 2",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-002.png",
+      "page_no": 11,
+      "source_refs": [
+        {
+          "evidence_id": "photo-002",
+          "document": "inspection",
+          "page_no": 11,
+          "kind": "photo",
+          "label": "Photo 2"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-003",
+      "caption_ref": "Photo 3",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-003.png",
+      "page_no": 11,
+      "source_refs": [
+        {
+          "evidence_id": "photo-003",
+          "document": "inspection",
+          "page_no": 11,
+          "kind": "photo",
+          "label": "Photo 3"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-004",
+      "caption_ref": "Photo 4",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-004.png",
+      "page_no": 11,
+      "source_refs": [
+        {
+          "evidence_id": "photo-004",
+          "document": "inspection",
+          "page_no": 11,
+          "kind": "photo",
+          "label": "Photo 4"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-005",
+      "caption_ref": "Photo 5",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-005.png",
+      "page_no": 11,
+      "source_refs": [
+        {
+          "evidence_id": "photo-005",
+          "document": "inspection",
+          "page_no": 11,
+          "kind": "photo",
+          "label": "Photo 5"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-006",
+      "caption_ref": "Photo 6",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-006.png",
+      "page_no": 11,
+      "source_refs": [
+        {
+          "evidence_id": "photo-006",
+          "document": "inspection",
+          "page_no": 11,
+          "kind": "photo",
+          "label": "Photo 6"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-007",
+      "caption_ref": "Photo 7",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-007.png",
+      "page_no": 12,
+      "source_refs": [
+        {
+          "evidence_id": "photo-007",
+          "document": "inspection",
+          "page_no": 12,
+          "kind": "photo",
+          "label": "Photo 7"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-008",
+      "caption_ref": "Photo 8",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-008.png",
+      "page_no": 12,
+      "source_refs": [
+        {
+          "evidence_id": "photo-008",
+          "document": "inspection",
+          "page_no": 12,
+          "kind": "photo",
+          "label": "Photo 8"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-009",
+      "caption_ref": "Photo 9",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-009.png",
+      "page_no": 12,
+      "source_refs": [
+        {
+          "evidence_id": "photo-009",
+          "document": "inspection",
+          "page_no": 12,
+          "kind": "photo",
+          "label": "Photo 9"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-010",
+      "caption_ref": "Photo 10",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-010.png",
+      "page_no": 12,
+      "source_refs": [
+        {
+          "evidence_id": "photo-010",
+          "document": "inspection",
+          "page_no": 12,
+          "kind": "photo",
+          "label": "Photo 10"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-011",
+      "caption_ref": "Photo 11",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-011.png",
+      "page_no": 12,
+      "source_refs": [
+        {
+          "evidence_id": "photo-011",
+          "document": "inspection",
+          "page_no": 12,
+          "kind": "photo",
+          "label": "Photo 11"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-012",
+      "caption_ref": "Photo 12",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-012.png",
+      "page_no": 12,
+      "source_refs": [
+        {
+          "evidence_id": "photo-012",
+          "document": "inspection",
+          "page_no": 12,
+          "kind": "photo",
+          "label": "Photo 12"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-015",
+      "caption_ref": "Photo 15",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-015.png",
+      "page_no": 13,
+      "source_refs": [
+        {
+          "evidence_id": "photo-015",
+          "document": "inspection",
+          "page_no": 13,
+          "kind": "photo",
+          "label": "Photo 15"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-016",
+      "caption_ref": "Photo 16",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-016.png",
+      "page_no": 13,
+      "source_refs": [
+        {
+          "evidence_id": "photo-016",
+          "document": "inspection",
+          "page_no": 13,
+          "kind": "photo",
+          "label": "Photo 16"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-017",
+      "caption_ref": "Photo 17",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-017.png",
+      "page_no": 13,
+      "source_refs": [
+        {
+          "evidence_id": "photo-017",
+          "document": "inspection",
+          "page_no": 13,
+          "kind": "photo",
+          "label": "Photo 17"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-018",
+      "caption_ref": "Photo 18",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-018.png",
+      "page_no": 13,
+      "source_refs": [
+        {
+          "evidence_id": "photo-018",
+          "document": "inspection",
+          "page_no": 13,
+          "kind": "photo",
+          "label": "Photo 18"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-019",
+      "caption_ref": "Photo 19",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-019.png",
+      "page_no": 13,
+      "source_refs": [
+        {
+          "evidence_id": "photo-019",
+          "document": "inspection",
+          "page_no": 13,
+          "kind": "photo",
+          "label": "Photo 19"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-020",
+      "caption_ref": "Photo 20",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-020.png",
+      "page_no": 13,
+      "source_refs": [
+        {
+          "evidence_id": "photo-020",
+          "document": "inspection",
+          "page_no": 13,
+          "kind": "photo",
+          "label": "Photo 20"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-021",
+      "caption_ref": "Photo 21",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-021.png",
+      "page_no": 14,
+      "source_refs": [
+        {
+          "evidence_id": "photo-021",
+          "document": "inspection",
+          "page_no": 14,
+          "kind": "photo",
+          "label": "Photo 21"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-022",
+      "caption_ref": "Photo 22",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-022.png",
+      "page_no": 14,
+      "source_refs": [
+        {
+          "evidence_id": "photo-022",
+          "document": "inspection",
+          "page_no": 14,
+          "kind": "photo",
+          "label": "Photo 22"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-024",
+      "caption_ref": "Photo 24",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-024.png",
+      "page_no": 14,
+      "source_refs": [
+        {
+          "evidence_id": "photo-024",
+          "document": "inspection",
+          "page_no": 14,
+          "kind": "photo",
+          "label": "Photo 24"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-025",
+      "caption_ref": "Photo 25",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-025.png",
+      "page_no": 14,
+      "source_refs": [
+        {
+          "evidence_id": "photo-025",
+          "document": "inspection",
+          "page_no": 14,
+          "kind": "photo",
+          "label": "Photo 25"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-027",
+      "caption_ref": "Photo 27",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-027.png",
+      "page_no": 15,
+      "source_refs": [
+        {
+          "evidence_id": "photo-027",
+          "document": "inspection",
+          "page_no": 15,
+          "kind": "photo",
+          "label": "Photo 27"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-028",
+      "caption_ref": "Photo 28",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-028.png",
+      "page_no": 15,
+      "source_refs": [
+        {
+          "evidence_id": "photo-028",
+          "document": "inspection",
+          "page_no": 15,
+          "kind": "photo",
+          "label": "Photo 28"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-029",
+      "caption_ref": "Photo 29",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-029.png",
+      "page_no": 15,
+      "source_refs": [
+        {
+          "evidence_id": "photo-029",
+          "document": "inspection",
+          "page_no": 15,
+          "kind": "photo",
+          "label": "Photo 29"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-030",
+      "caption_ref": "Photo 30",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-030.png",
+      "page_no": 15,
+      "source_refs": [
+        {
+          "evidence_id": "photo-030",
+          "document": "inspection",
+          "page_no": 15,
+          "kind": "photo",
+          "label": "Photo 30"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-031",
+      "caption_ref": "Photo 31",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-031.png",
+      "page_no": 16,
+      "source_refs": [
+        {
+          "evidence_id": "photo-031",
+          "document": "inspection",
+          "page_no": 16,
+          "kind": "photo",
+          "label": "Photo 31"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-034",
+      "caption_ref": "Photo 34",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-034.png",
+      "page_no": 16,
+      "source_refs": [
+        {
+          "evidence_id": "photo-034",
+          "document": "inspection",
+          "page_no": 16,
+          "kind": "photo",
+          "label": "Photo 34"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-035",
+      "caption_ref": "Photo 35",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-035.png",
+      "page_no": 17,
+      "source_refs": [
+        {
+          "evidence_id": "photo-035",
+          "document": "inspection",
+          "page_no": 17,
+          "kind": "photo",
+          "label": "Photo 35"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-036",
+      "caption_ref": "Photo 36",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-036.png",
+      "page_no": 17,
+      "source_refs": [
+        {
+          "evidence_id": "photo-036",
+          "document": "inspection",
+          "page_no": 17,
+          "kind": "photo",
+          "label": "Photo 36"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-037",
+      "caption_ref": "Photo 37",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-037.png",
+      "page_no": 17,
+      "source_refs": [
+        {
+          "evidence_id": "photo-037",
+          "document": "inspection",
+          "page_no": 17,
+          "kind": "photo",
+          "label": "Photo 37"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-038",
+      "caption_ref": "Photo 38",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-038.png",
+      "page_no": 17,
+      "source_refs": [
+        {
+          "evidence_id": "photo-038",
+          "document": "inspection",
+          "page_no": 17,
+          "kind": "photo",
+          "label": "Photo 38"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-039",
+      "caption_ref": "Photo 39",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-039.png",
+      "page_no": 18,
+      "source_refs": [
+        {
+          "evidence_id": "photo-039",
+          "document": "inspection",
+          "page_no": 18,
+          "kind": "photo",
+          "label": "Photo 39"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-040",
+      "caption_ref": "Photo 40",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-040.png",
+      "page_no": 18,
+      "source_refs": [
+        {
+          "evidence_id": "photo-040",
+          "document": "inspection",
+          "page_no": 18,
+          "kind": "photo",
+          "label": "Photo 40"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-043",
+      "caption_ref": "Photo 43",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-043.png",
+      "page_no": 19,
+      "source_refs": [
+        {
+          "evidence_id": "photo-043",
+          "document": "inspection",
+          "page_no": 19,
+          "kind": "photo",
+          "label": "Photo 43"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-044",
+      "caption_ref": "Photo 44",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-044.png",
+      "page_no": 19,
+      "source_refs": [
+        {
+          "evidence_id": "photo-044",
+          "document": "inspection",
+          "page_no": 19,
+          "kind": "photo",
+          "label": "Photo 44"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-045",
+      "caption_ref": "Photo 45",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-045.png",
+      "page_no": 19,
+      "source_refs": [
+        {
+          "evidence_id": "photo-045",
+          "document": "inspection",
+          "page_no": 19,
+          "kind": "photo",
+          "label": "Photo 45"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-046",
+      "caption_ref": "Photo 46",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-046.png",
+      "page_no": 19,
+      "source_refs": [
+        {
+          "evidence_id": "photo-046",
+          "document": "inspection",
+          "page_no": 19,
+          "kind": "photo",
+          "label": "Photo 46"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-047",
+      "caption_ref": "Photo 47",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-047.png",
+      "page_no": 20,
+      "source_refs": [
+        {
+          "evidence_id": "photo-047",
+          "document": "inspection",
+          "page_no": 20,
+          "kind": "photo",
+          "label": "Photo 47"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-048",
+      "caption_ref": "Photo 48",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-048.png",
+      "page_no": 20,
+      "source_refs": [
+        {
+          "evidence_id": "photo-048",
+          "document": "inspection",
+          "page_no": 20,
+          "kind": "photo",
+          "label": "Photo 48"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-049",
+      "caption_ref": "Photo 49",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-049.png",
+      "page_no": 20,
+      "source_refs": [
+        {
+          "evidence_id": "photo-049",
+          "document": "inspection",
+          "page_no": 20,
+          "kind": "photo",
+          "label": "Photo 49"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-050",
+      "caption_ref": "Photo 50",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-050.png",
+      "page_no": 20,
+      "source_refs": [
+        {
+          "evidence_id": "photo-050",
+          "document": "inspection",
+          "page_no": 20,
+          "kind": "photo",
+          "label": "Photo 50"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-051",
+      "caption_ref": "Photo 51",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-051.png",
+      "page_no": 21,
+      "source_refs": [
+        {
+          "evidence_id": "photo-051",
+          "document": "inspection",
+          "page_no": 21,
+          "kind": "photo",
+          "label": "Photo 51"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-054",
+      "caption_ref": "Photo 54",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-054.png",
+      "page_no": 21,
+      "source_refs": [
+        {
+          "evidence_id": "photo-054",
+          "document": "inspection",
+          "page_no": 21,
+          "kind": "photo",
+          "label": "Photo 54"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-055",
+      "caption_ref": "Photo 55",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-055.png",
+      "page_no": 22,
+      "source_refs": [
+        {
+          "evidence_id": "photo-055",
+          "document": "inspection",
+          "page_no": 22,
+          "kind": "photo",
+          "label": "Photo 55"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-056",
+      "caption_ref": "Photo 56",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-056.png",
+      "page_no": 22,
+      "source_refs": [
+        {
+          "evidence_id": "photo-056",
+          "document": "inspection",
+          "page_no": 22,
+          "kind": "photo",
+          "label": "Photo 56"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-057",
+      "caption_ref": "Photo 57",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-057.png",
+      "page_no": 22,
+      "source_refs": [
+        {
+          "evidence_id": "photo-057",
+          "document": "inspection",
+          "page_no": 22,
+          "kind": "photo",
+          "label": "Photo 57"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-058",
+      "caption_ref": "Photo 58",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-058.png",
+      "page_no": 22,
+      "source_refs": [
+        {
+          "evidence_id": "photo-058",
+          "document": "inspection",
+          "page_no": 22,
+          "kind": "photo",
+          "label": "Photo 58"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-059",
+      "caption_ref": "Photo 59",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-059.png",
+      "page_no": 23,
+      "source_refs": [
+        {
+          "evidence_id": "photo-059",
+          "document": "inspection",
+          "page_no": 23,
+          "kind": "photo",
+          "label": "Photo 59"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-060",
+      "caption_ref": "Photo 60",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-060.png",
+      "page_no": 23,
+      "source_refs": [
+        {
+          "evidence_id": "photo-060",
+          "document": "inspection",
+          "page_no": 23,
+          "kind": "photo",
+          "label": "Photo 60"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-061",
+      "caption_ref": "Photo 61",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-061.png",
+      "page_no": 23,
+      "source_refs": [
+        {
+          "evidence_id": "photo-061",
+          "document": "inspection",
+          "page_no": 23,
+          "kind": "photo",
+          "label": "Photo 61"
+        }
+      ]
+    },
+    {
+      "photo_id": "photo-062",
+      "caption_ref": "Photo 62",
+      "image_path": "D:\\report_gen\\sample_outputs\\sample-report__thermal-images__20260417-002748\\artifacts\\images\\inspection\\photo-062.png",
+      "page_no": 23,
+      "source_refs": [
+        {
+          "evidence_id": "photo-062",
+          "document": "inspection",
+          "page_no": 23,
+          "kind": "photo",
+          "label": "Photo 62"
+        }
+      ]
+    }
+  ],
+  "auxiliary_summary_points": [
+    "Observed dampness at the skirting level",
+    "Observed gaps between the tile joints of",
+    "Observed dampness at the skirting level",
+    "Observed gaps between the tile joints of",
+    "Observed dampness at the skirting level",
+    "Observed gaps between the tile joints of Master",
+    "Observed dampness at the skirting level",
+    "Observed gaps between the tile joints of Master",
+    "Observed dampness & efflorescence on",
+    "Observed cracks on the External wall of building",
+    "Observed leakage at the Parking ceiling",
+    "Observed plumbing issue & gaps between the",
+    "Observed mild dampness at the ceiling of",
+    "Observed gap between tile joints of Common &"
+  ],
+  "source_index": [
+    {
+      "evidence_id": "area-01",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "impacted_area",
+      "label": "Impacted Area 1"
+    },
+    {
+      "evidence_id": "area-02",
+      "document": "inspection",
+      "page_no": 3,
+      "kind": "impacted_area",
+      "label": "Impacted Area 2"
+    },
+    {
+      "evidence_id": "area-03",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "impacted_area",
+      "label": "Impacted Area 3"
+    },
+    {
+      "evidence_id": "area-04",
+      "document": "inspection",
+      "page_no": 4,
+      "kind": "impacted_area",
+      "label": "Impacted Area 4"
+    },
+    {
+      "evidence_id": "area-05",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "impacted_area",
+      "label": "Impacted Area 5"
+    },
+    {
+      "evidence_id": "area-06",
+      "document": "inspection",
+      "page_no": 5,
+      "kind": "impacted_area",
+      "label": "Impacted Area 6"
+    },
+    {
+      "evidence_id": "area-07",
+      "document": "inspection",
+      "page_no": 6,
+      "kind": "impacted_area",
+      "label": "Impacted Area 7"
+    },
+    {
+      "evidence_id": "photo-001",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 1"
+    },
+    {
+      "evidence_id": "photo-002",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 2"
+    },
+    {
+      "evidence_id": "photo-003",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 3"
+    },
+    {
+      "evidence_id": "photo-004",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 4"
+    },
+    {
+      "evidence_id": "photo-005",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 5"
+    },
+    {
+      "evidence_id": "photo-006",
+      "document": "inspection",
+      "page_no": 11,
+      "kind": "photo",
+      "label": "Photo 6"
+    },
+    {
+      "evidence_id": "photo-007",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 7"
+    },
+    {
+      "evidence_id": "photo-008",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 8"
+    },
+    {
+      "evidence_id": "photo-009",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 9"
+    },
+    {
+      "evidence_id": "photo-010",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 10"
+    },
+    {
+      "evidence_id": "photo-011",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 11"
+    },
+    {
+      "evidence_id": "photo-012",
+      "document": "inspection",
+      "page_no": 12,
+      "kind": "photo",
+      "label": "Photo 12"
+    },
+    {
+      "evidence_id": "photo-015",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 15"
+    },
+    {
+      "evidence_id": "photo-016",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 16"
+    },
+    {
+      "evidence_id": "photo-017",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 17"
+    },
+    {
+      "evidence_id": "photo-018",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 18"
+    },
+    {
+      "evidence_id": "photo-019",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 19"
+    },
+    {
+      "evidence_id": "photo-020",
+      "document": "inspection",
+      "page_no": 13,
+      "kind": "photo",
+      "label": "Photo 20"
+    },
+    {
+      "evidence_id": "photo-021",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 21"
+    },
+    {
+      "evidence_id": "photo-022",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 22"
+    },
+    {
+      "evidence_id": "photo-024",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 24"
+    },
+    {
+      "evidence_id": "photo-025",
+      "document": "inspection",
+      "page_no": 14,
+      "kind": "photo",
+      "label": "Photo 25"
+    },
+    {
+      "evidence_id": "photo-027",
+      "document": "inspection",
+      "page_no": 15,
+      "kind": "photo",
+      "label": "Photo 27"
+    },
+    {
+      "evidence_id": "photo-028",
+      "document": "inspection",
+      "page_no": 15,
+      "kind": "photo",
+      "label": "Photo 28"
+    },
+    {
+      "evidence_id": "photo-029",
+      "document": "inspection",
+      "page_no": 15,
+      "kind": "photo",
+      "label": "Photo 29"
+    },
+    {
+      "evidence_id": "photo-030",
+      "document": "inspection",
+      "page_no": 15,
+      "kind": "photo",
+      "label": "Photo 30"
+    },
+    {
+      "evidence_id": "photo-031",
+      "document": "inspection",
+      "page_no": 16,
+      "kind": "photo",
+      "label": "Photo 31"
+    },
+    {
+      "evidence_id": "photo-034",
+      "document": "inspection",
+      "page_no": 16,
+      "kind": "photo",
+      "label": "Photo 34"
+    },
+    {
+      "evidence_id": "photo-035",
+      "document": "inspection",
+      "page_no": 17,
+      "kind": "photo",
+      "label": "Photo 35"
+    },
+    {
+      "evidence_id": "photo-036",
+      "document": "inspection",
+      "page_no": 17,
+      "kind": "photo",
+      "label": "Photo 36"
+    },
+    {
+      "evidence_id": "photo-037",
+      "document": "inspection",
+      "page_no": 17,
+      "kind": "photo",
+      "label": "Photo 37"
+    },
+    {
+      "evidence_id": "photo-038",
+      "document": "inspection",
+      "page_no": 17,
+      "kind": "photo",
+      "label": "Photo 38"
+    },
+    {
+      "evidence_id": "photo-039",
+      "document": "inspection",
+      "page_no": 18,
+      "kind": "photo",
+      "label": "Photo 39"
+    },
+    {
+      "evidence_id": "photo-040",
+      "document": "inspection",
+      "page_no": 18,
+      "kind": "photo",
+      "label": "Photo 40"
+    },
+    {
+      "evidence_id": "photo-043",
+      "document": "inspection",
+      "page_no": 19,
+      "kind": "photo",
+      "label": "Photo 43"
+    },
+    {
+      "evidence_id": "photo-044",
+      "document": "inspection",
+      "page_no": 19,
+      "kind": "photo",
+      "label": "Photo 44"
+    },
+    {
+      "evidence_id": "photo-045",
+      "document": "inspection",
+      "page_no": 19,
+      "kind": "photo",
+      "label": "Photo 45"
+    },
+    {
+      "evidence_id": "photo-046",
+      "document": "inspection",
+      "page_no": 19,
+      "kind": "photo",
+      "label": "Photo 46"
+    },
+    {
+      "evidence_id": "photo-047",
+      "document": "inspection",
+      "page_no": 20,
+      "kind": "photo",
+      "label": "Photo 47"
+    },
+    {
+      "evidence_id": "photo-048",
+      "document": "inspection",
+      "page_no": 20,
+      "kind": "photo",
+      "label": "Photo 48"
+    },
+    {
+      "evidence_id": "photo-049",
+      "document": "inspection",
+      "page_no": 20,
+      "kind": "photo",
+      "label": "Photo 49"
+    },
+    {
+      "evidence_id": "photo-050",
+      "document": "inspection",
+      "page_no": 20,
+      "kind": "photo",
+      "label": "Photo 50"
+    },
+    {
+      "evidence_id": "photo-051",
+      "document": "inspection",
+      "page_no": 21,
+      "kind": "photo",
+      "label": "Photo 51"
+    },
+    {
+      "evidence_id": "photo-054",
+      "document": "inspection",
+      "page_no": 21,
+      "kind": "photo",
+      "label": "Photo 54"
+    },
+    {
+      "evidence_id": "photo-055",
+      "document": "inspection",
+      "page_no": 22,
+      "kind": "photo",
+      "label": "Photo 55"
+    },
+    {
+      "evidence_id": "photo-056",
+      "document": "inspection",
+      "page_no": 22,
+      "kind": "photo",
+      "label": "Photo 56"
+    },
+    {
+      "evidence_id": "photo-057",
+      "document": "inspection",
+      "page_no": 22,
+      "kind": "photo",
+      "label": "Photo 57"
+    },
+    {
+      "evidence_id": "photo-058",
+      "document": "inspection",
+      "page_no": 22,
+      "kind": "photo",
+      "label": "Photo 58"
+    },
+    {
+      "evidence_id": "photo-059",
+      "document": "inspection",
+      "page_no": 23,
+      "kind": "photo",
+      "label": "Photo 59"
+    },
+    {
+      "evidence_id": "photo-060",
+      "document": "inspection",
+      "page_no": 23,
+      "kind": "photo",
+      "label": "Photo 60"
+    },
+    {
+      "evidence_id": "photo-061",
+      "document": "inspection",
+      "page_no": 23,
+      "kind": "photo",
+      "label": "Photo 61"
+    },
+    {
+      "evidence_id": "photo-062",
+      "document": "inspection",
+      "page_no": 23,
+      "kind": "photo",
+      "label": "Photo 62"
+    }
+  ]
+}
